@@ -8,3 +8,6 @@ Four requried files
 2. Seqence Diagram
 3. class Diagram
 4. README.md
+
+Q1: Because the UDP for client and server should be proccessed on different thread to avoid block.
+Q2: Yes, the host should handle the massage for client and server seperately.
